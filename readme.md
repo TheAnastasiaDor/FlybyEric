@@ -5,3 +5,7 @@ npm install
 run in browser:
 
 npx canvas-sketch-cli sketches/sketch.js
+
+##IMPORTANT##
+When you commit to changes -- always leave a comment of what you did
+run git push to add changes to the githip depo
